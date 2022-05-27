@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // sadu atributů. Změnou hodnot těchto atributů se upraví informace
 // přidružené k sestavení.
 [assembly: AssemblyTitle("ScrapMechanicSaveEditor")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Save editor for Scrap Mechanic")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Patzlyk")]
 [assembly: AssemblyProduct("ScrapMechanicSaveEditor")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]

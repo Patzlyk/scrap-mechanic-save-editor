@@ -433,7 +433,7 @@
             this.Controls.Add(this.hotbarItem1);
             this.Controls.Add(this.hotbarItem0);
             this.Name = "MainForm";
-            this.Text = "Scrap Mechanic Save Editor";
+            this.Text = "Scrap mechanic save editor";
             ((System.ComponentModel.ISupportInitialize)(this.hotbarCount0)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.hotbarCount1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.hotbarCount2)).EndInit();
